@@ -8,9 +8,9 @@ A simple starter for php librairies
 Description
 -----------
     
-    Include phpunit
-    Include autoloader
-    Include composer.json reference
+    1. Include phpunit
+    2. Include autoloader
+    3. Include composer.json reference
 
 How to install
 --------------
