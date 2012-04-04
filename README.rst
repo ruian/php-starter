@@ -5,6 +5,13 @@ A simple bootstrap for php librairies
 :Version: v1
 :Copyright: MIT
 
+Description
+-----------
+    
+    Include phpunit
+    Include autoloader
+    Include composer.json reference
+
 How to install
 --------------
 
