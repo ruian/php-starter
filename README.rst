@@ -1,4 +1,4 @@
-A simple bootstrap for php librairies
+A simple starter for php librairies
 =====================================
 
 :Author: Julien GALENSKI
