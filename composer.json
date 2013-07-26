@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Description of the librairie",
     "keywords": ["keyword1","keyword2"],
-    "homepage": "https://github.com/ruian/php-boostrap",
+    "homepage": "https://github.com/ruian/php-starter",
     "license": "MIT",
     "authors": [
         {
