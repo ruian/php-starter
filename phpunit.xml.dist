@@ -27,4 +27,13 @@
         <log type="coverage-text" target="php://stdout" showUncoveredFiles="false"/>
         <log type="testdox-text" target="php://stdout"/>
     </logging>
+
+    <filter>
+        <blacklist>
+            <directory suffix=".php">./vendor</directory>
+        </blacklist>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">./src</directory>
+        </whitelist>
+    </filter>
 </phpunit>
